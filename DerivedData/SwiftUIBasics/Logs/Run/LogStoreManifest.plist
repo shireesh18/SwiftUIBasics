@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>B1EF6127-B627-40B7-88DC-4625E83E152E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B1EF6127-B627-40B7-88DC-4625E83E152E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftUIBasics</string>
+			<key>timeStartedRecording</key>
+			<real>660155935.99214303</real>
+			<key>timeStoppedRecording</key>
+			<real>660157747.04155397</real>
+			<key>title</key>
+			<string>Run SwiftUIBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>B1EF6127-B627-40B7-88DC-4625E83E152E</string>
+		</dict>
+		<key>DB3746D2-2776-44AC-B0A7-9E665F8D56EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DB3746D2-2776-44AC-B0A7-9E665F8D56EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftUIBasics</string>
+			<key>timeStartedRecording</key>
+			<real>660138329.07458496</real>
+			<key>timeStoppedRecording</key>
+			<real>660155427.70921195</real>
+			<key>title</key>
+			<string>Run SwiftUIBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>DB3746D2-2776-44AC-B0A7-9E665F8D56EC</string>
+		</dict>
+		<key>E1D4ACE6-0832-4354-A3E8-CE6027779B12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1D4ACE6-0832-4354-A3E8-CE6027779B12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftUIBasics</string>
+			<key>timeStartedRecording</key>
+			<real>660155432.621189</real>
+			<key>timeStoppedRecording</key>
+			<real>660155554.21784198</real>
+			<key>title</key>
+			<string>Run SwiftUIBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>E1D4ACE6-0832-4354-A3E8-CE6027779B12</string>
+		</dict>
+		<key>F6BE2FAD-A5CF-4B3A-B377-BC7CBE0EAC56</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F6BE2FAD-A5CF-4B3A-B377-BC7CBE0EAC56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIBasics project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIBasics</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run SwiftUIBasics</string>
+			<key>timeStartedRecording</key>
+			<real>660155555.16627705</real>
+			<key>timeStoppedRecording</key>
+			<real>660155934.925143</real>
+			<key>title</key>
+			<string>Run SwiftUIBasics</string>
+			<key>uniqueIdentifier</key>
+			<string>F6BE2FAD-A5CF-4B3A-B377-BC7CBE0EAC56</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

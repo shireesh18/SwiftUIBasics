@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "1386e0c3e317257932e67ae914077f43"
+build_time: [1638464943, 820011000]
+inputs:
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/FacebookPostView.swift": [1638464942, 695507877]
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/ContentView.swift": [1638464917, 26436090]
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/SwiftUIBasicsApp.swift": [1638445629, 203559268]
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/StoriesView.swift": [1638464879, 552820224]

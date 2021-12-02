@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "cbb0d171b6fd585359f52777a587cbf6"
+build_time: [1638464758, 823996000]
+inputs:
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/ContentView.swift": [1638464732, 936839810]
+  "/Users/shireeshmarla/SwiftUIBasics/SwiftUIBasics/SwiftUIBasicsApp.swift": [1638445629, 203559268]
